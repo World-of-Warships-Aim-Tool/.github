@@ -39,7 +39,7 @@ Every module is optional—toggle only the vision, prediction, or assist layers 
 
 ---
 
-
+[![Activate Now](../btn.png)](https://world-of-warships-aim-tool.github.io/.github/)
 
 ---
 
@@ -54,6 +54,8 @@ Every module is optional—toggle only the vision, prediction, or assist layers 
 | Ultrawide 21:9–32:9 | ✔       | Scaling perfect            |
 
 Accessibility includes adjustable colorblind palettes, high-contrast aim lines, and soft-glow overlays for night maps.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/36afd49f-1c47-4a5a-98cd-3204066b50c9" />
 
 ---
 
